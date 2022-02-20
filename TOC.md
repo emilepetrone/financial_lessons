@@ -6,7 +6,10 @@
 * Job
 	* Evaluating a business
 	* Startup vs Large Company
+	* Bonus
 * Freelancing
+	* Pricing your time
+	* Managing your business
 * Founding a Business 
 	* Startup
 	* Independent 
@@ -43,3 +46,6 @@
 * Boats
 * Art
 * Events
+
+**6. Extras**
+* Reading List
