@@ -1,9 +1,6 @@
-Table of Contents
-
-Background
-My Story
-
-Must Read
+**Table of Contents**
+* Background / Why this book
+* Must Read
 
 **1. Income**
 * Job
