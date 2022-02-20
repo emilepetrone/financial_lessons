@@ -8,7 +8,7 @@ What financial info would I have wanted to know when I was 22 and jumping into t
 
 I am using Obsidian to write this. 
 
-**Origin**
+**💡Origin Story**
 
 This project started after I posted the idea on Reddit. 
 
@@ -19,5 +19,6 @@ After a huge outpouring of support, I'm writing this book/repo/project. It is a 
 Thanks for your support!
 
 Emile 
-@emilepetrone
+
+[@emilepetrone](https://www.twitter.com/emilepetrone)
 
