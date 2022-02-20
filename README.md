@@ -10,4 +10,5 @@ I'll be adding to it this weekend.
 https://www.reddit.com/r/cscareerquestions/comments/swdgiq/financial_advice_after_a_decade_in_tech/
 
 **Tools**
+
 I am using Obsidian to write this. 

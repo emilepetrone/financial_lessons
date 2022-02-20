@@ -32,7 +32,7 @@
 
 **Entrepreneurship**
 * The minimalist Entrepreneur
-* *$100 startup
+* $100 startup
 * The Indie Maker Handbook
 * The E Myth
 * 4 Hour Work Week
