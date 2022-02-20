@@ -8,3 +8,6 @@ I'll be adding to it this weekend.
 **If you'd rather join a mailing list,** I just built this quick form https://financial.carrd.co/ for updates
 
 https://www.reddit.com/r/cscareerquestions/comments/swdgiq/financial_advice_after_a_decade_in_tech/
+
+**Tools**
+I am using Obsidian to write this. 
