@@ -10,9 +10,6 @@
 * Freelancing
 	* Pricing your time
 	* Managing your business
-* Founding a Business 
-	* Startup
-	* Independent 
 
 **2. Expenses**
 * Budgeting
