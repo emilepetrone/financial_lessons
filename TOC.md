@@ -39,13 +39,5 @@
 * Lawyer
 * RIA
 
-**5. Fun (Not sure about this section)**
-* Private Clubs
-* Cars
-* Planes
-* Boats
-* Art
-* Events
-
-**6. Extras**
+**5. Extras**
 * Reading List
