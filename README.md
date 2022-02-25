@@ -2,7 +2,7 @@
 What financial info would I have wanted to know when I was 22 and jumping into tech?
 
 
-**📬 If you'd rather join a mailing list** https://financial.carrd.co/ for updates
+**📬 If you'd rather join a mailing list** https://www.figang.com for updates
 
 **🛠️ Tools**
 
