@@ -21,3 +21,5 @@ Emile
 **Update**
 
 Words are being written. Will have an email to the mailing list in July 2022. 
+
+https://www.ficombinator.com/
