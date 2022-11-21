@@ -1,8 +1,7 @@
 # Financial Lessons After 10+ years in Tech
 What financial info would I have wanted to know when I was 22 and jumping into tech?
 
-
-**📬 If you'd rather join a mailing list** https://www.ficombinator.com for updates
+**📬 Join the newsletter ** https://newsletter.ficombinator.com/ for posts
 
 **💡Origin Story**
 
@@ -17,9 +16,3 @@ Thanks for your support!
 Emile 
 
 [@emilepetrone](https://www.twitter.com/emilepetrone)
-
-**Update**
-
-Words are being written. Will have an email to the mailing list in July 2022. 
-
-https://www.ficombinator.com/
