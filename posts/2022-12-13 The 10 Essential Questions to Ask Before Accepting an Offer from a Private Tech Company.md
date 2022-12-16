@@ -4,12 +4,10 @@ The 10 Essential Questions to Ask Before Accepting an Offer from a Private Tech 
 
 ```javascript
 ---
-creation date: <% tp.file.creation_date() %>
-modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+creation date: 2022-12-12 09:41
+modification date: Friday 16th December 2022 10:32:23
 ---
 ```
-
-
 
 ## 🏢 The Company
 
