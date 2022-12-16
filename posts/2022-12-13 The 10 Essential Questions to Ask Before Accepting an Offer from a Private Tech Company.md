@@ -2,6 +2,15 @@
 The 10 Essential Questions to Ask Before Accepting an Offer from a Private Tech Company
 =======================================================================
 
+```javascript
+---
+creation date: <% tp.file.creation_date() %>
+modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+---
+```
+
+
+
 ## 🏢 The Company
 
 -   What is the total number of outstanding shares?
