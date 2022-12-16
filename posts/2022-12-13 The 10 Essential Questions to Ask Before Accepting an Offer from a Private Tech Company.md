@@ -1,5 +1,6 @@
-`===============`
 
+The 10 Essential Questions to Ask Before Accepting an Offer from a Private Tech Company
+=======================================================================
 
 ## 🏢 The Company
 
