@@ -3,7 +3,7 @@ What financial info would I have wanted to know when I was 22 and jumping into t
 
 **📬 Join the newsletter** 
 
-[https://www.fatfire.com/](https://www.fatfire.com/) for posts
+[https://www.ficombinator.com/](https://www.ficombinator.com/) for posts
 
 **💡Origin Story**
 
@@ -20,5 +20,5 @@ Emile
 [@emilepetrone](https://www.twitter.com/emilepetrone)
 
 # Update
-I am kicking this into gear and will be on **[FatFIRE.com](https://www.fatfire.com/)**
+I am kicking this into gear and will be on **[FiCombinator.com](https://www.ficombinator.com/)**
 June 2024
